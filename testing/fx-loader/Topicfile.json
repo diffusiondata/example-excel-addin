@@ -1,0 +1,1082 @@
+{
+  "market-data/dukascopy.com/fx/AUDCAD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/AUDCAD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDCAD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/AUDCAD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDCAD": {
+    "file": "market-data/dukascopy.com/AUDCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/AUDCHF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/AUDCHF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDCHF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/AUDCHF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDCHF": {
+    "file": "market-data/dukascopy.com/AUDCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/AUDJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/AUDJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/AUDJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDJPY": {
+    "file": "market-data/dukascopy.com/AUDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/AUDNZD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/AUDNZD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDNZD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/AUDNZD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDNZD": {
+    "file": "market-data/dukascopy.com/AUDNZD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/AUDSGD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/AUDSGD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDSGD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/AUDSGD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/AUDSGD": {
+    "file": "market-data/dukascopy.com/AUDSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/CADCHF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/CADCHF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CADCHF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/CADCHF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CADCHF": {
+    "file": "market-data/dukascopy.com/CADCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/CADHKD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/CADHKD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CADHKD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/CADHKD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CADHKD": {
+    "file": "market-data/dukascopy.com/CADHKD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/CADJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/CADJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CADJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/CADJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CADJPY": {
+    "file": "market-data/dukascopy.com/CADJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/CHFJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/CHFJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CHFJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/CHFJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CHFJPY": {
+    "file": "market-data/dukascopy.com/CHFJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/CHFSGD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/CHFSGD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CHFSGD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/CHFSGD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/CHFSGD": {
+    "file": "market-data/dukascopy.com/CHFSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURAUD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURAUD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURAUD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURAUD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURAUD": {
+    "file": "market-data/dukascopy.com/EURAUD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURCAD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURCAD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURCAD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURCAD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURCAD": {
+    "file": "market-data/dukascopy.com/EURCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURCHF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURCHF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURCHF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURCHF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURCHF": {
+    "file": "market-data/dukascopy.com/EURCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURCZK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURCZK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURCZK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURCZK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURCZK": {
+    "file": "market-data/dukascopy.com/EURCZK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURDKK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURDKK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURDKK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURDKK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURDKK": {
+    "file": "market-data/dukascopy.com/EURDKK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURGBP/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURGBP_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURGBP/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURGBP_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURGBP": {
+    "file": "market-data/dukascopy.com/EURGBP_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURHKD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURHKD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURHKD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURHKD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURHKD": {
+    "file": "market-data/dukascopy.com/EURHKD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURHUF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURHUF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURHUF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURHUF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURHUF": {
+    "file": "market-data/dukascopy.com/EURHUF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURJPY": {
+    "file": "market-data/dukascopy.com/EURJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURNOK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURNOK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURNOK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURNOK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURNOK": {
+    "file": "market-data/dukascopy.com/EURNOK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURNZD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURNZD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURNZD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURNZD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURNZD": {
+    "file": "market-data/dukascopy.com/EURNZD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURPLN/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURPLN_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURPLN/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURPLN_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURPLN": {
+    "file": "market-data/dukascopy.com/EURPLN_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURSEK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURSEK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURSEK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURSEK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURSEK": {
+    "file": "market-data/dukascopy.com/EURSEK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURSGD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURSGD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURSGD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURSGD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURSGD": {
+    "file": "market-data/dukascopy.com/EURSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/EURTRY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/EURTRY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURTRY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/EURTRY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/EURTRY": {
+    "file": "market-data/dukascopy.com/EURTRY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/GBPAUD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/GBPAUD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPAUD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/GBPAUD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPAUD": {
+    "file": "market-data/dukascopy.com/GBPAUD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/GBPCAD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/GBPCAD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPCAD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/GBPCAD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPCAD": {
+    "file": "market-data/dukascopy.com/GBPCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/GBPCHF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/GBPCHF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPCHF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/GBPCHF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPCHF": {
+    "file": "market-data/dukascopy.com/GBPCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/GBPJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/GBPJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/GBPJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPJPY": {
+    "file": "market-data/dukascopy.com/GBPJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/GBPNZD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/GBPNZD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPNZD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/GBPNZD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/GBPNZD": {
+    "file": "market-data/dukascopy.com/GBPNZD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/HKDJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/HKDJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/HKDJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/HKDJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/HKDJPY": {
+    "file": "market-data/dukascopy.com/HKDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/NZDCAD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/NZDCAD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/NZDCAD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/NZDCAD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/NZDCAD": {
+    "file": "market-data/dukascopy.com/NZDCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/NZDCHF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/NZDCHF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/NZDCHF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/NZDCHF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/NZDCHF": {
+    "file": "market-data/dukascopy.com/NZDCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/NZDJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/NZDJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/NZDJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/NZDJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/NZDJPY": {
+    "file": "market-data/dukascopy.com/NZDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/SGDJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/SGDJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/SGDJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/SGDJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/SGDJPY": {
+    "file": "market-data/dukascopy.com/SGDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/TRYJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/TRYJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/TRYJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/TRYJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/TRYJPY": {
+    "file": "market-data/dukascopy.com/TRYJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDAED/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDAED_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDAED/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDAED_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDAED": {
+    "file": "market-data/dukascopy.com/USDAED_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDCNH/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDCNH_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDCNH/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDCNH_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDCNH": {
+    "file": "market-data/dukascopy.com/USDCNH_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDCZK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDCZK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDCZK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDCZK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDCZK": {
+    "file": "market-data/dukascopy.com/USDCZK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDDKK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDDKK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDDKK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDDKK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDDKK": {
+    "file": "market-data/dukascopy.com/USDDKK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDHKD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDHKD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDHKD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDHKD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDHKD": {
+    "file": "market-data/dukascopy.com/USDHKD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDHUF/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDHUF_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDHUF/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDHUF_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDHUF": {
+    "file": "market-data/dukascopy.com/USDHUF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDILS/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDILS_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDILS/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDILS_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDILS": {
+    "file": "market-data/dukascopy.com/USDILS_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDMXN/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDMXN_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDMXN/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDMXN_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDMXN": {
+    "file": "market-data/dukascopy.com/USDMXN_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDNOK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDNOK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDNOK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDNOK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDNOK": {
+    "file": "market-data/dukascopy.com/USDNOK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDPLN/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDPLN_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDPLN/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDPLN_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDPLN": {
+    "file": "market-data/dukascopy.com/USDPLN_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDRON/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDRON_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDRON/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDRON_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDRON": {
+    "file": "market-data/dukascopy.com/USDRON_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDSAR/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDSAR_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDSAR/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDSAR_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDSAR": {
+    "file": "market-data/dukascopy.com/USDSAR_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDSEK/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDSEK_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDSEK/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDSEK_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDSEK": {
+    "file": "market-data/dukascopy.com/USDSEK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDSGD/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDSGD_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDSGD/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDSGD_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDSGD": {
+    "file": "market-data/dukascopy.com/USDSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDTHB/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDTHB_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDTHB/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDTHB_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDTHB": {
+    "file": "market-data/dukascopy.com/USDTHB_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDTRY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDTRY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDTRY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDTRY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDTRY": {
+    "file": "market-data/dukascopy.com/USDTRY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/USDZAR/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/USDZAR_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDZAR/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/USDZAR_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/USDZAR": {
+    "file": "market-data/dukascopy.com/USDZAR_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/dukascopy.com/fx/ZARJPY/candlestick/1min/ASK": {
+    "file": "market-data/dukascopy.com/ZARJPY_Candlestick_1_M_ASK_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/ZARJPY/candlestick/1min/BID": {
+    "file": "market-data/dukascopy.com/ZARJPY_Candlestick_1_M_BID_24.06.2024-25.06.2024.csv",
+    "timeSeries": {
+      "TIME_SERIES_RETAINED_RANGE": "last 12h",
+      "TIME_SERIES_SUBSCRIPTION_RANGE": "last 6h"
+    }
+  },
+  "market-data/dukascopy.com/fx/ZARJPY": {
+    "file": "market-data/dukascopy.com/ZARJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/AUDCAD": {
+    "file": "market-data/ACMEBank.com/AUDCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/AUDCHF": {
+    "file": "market-data/ACMEBank.com/AUDCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/AUDJPY": {
+    "file": "market-data/ACMEBank.com/AUDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/AUDNZD": {
+    "file": "market-data/ACMEBank.com/AUDNZD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/AUDSGD": {
+    "file": "market-data/ACMEBank.com/AUDSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/CADCHF": {
+    "file": "market-data/ACMEBank.com/CADCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/CADHKD": {
+    "file": "market-data/ACMEBank.com/CADHKD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/CADJPY": {
+    "file": "market-data/ACMEBank.com/CADJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/CHFJPY": {
+    "file": "market-data/ACMEBank.com/CHFJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/CHFSGD": {
+    "file": "market-data/ACMEBank.com/CHFSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURAUD": {
+    "file": "market-data/ACMEBank.com/EURAUD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURCAD": {
+    "file": "market-data/ACMEBank.com/EURCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURCHF": {
+    "file": "market-data/ACMEBank.com/EURCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURCZK": {
+    "file": "market-data/ACMEBank.com/EURCZK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURDKK": {
+    "file": "market-data/ACMEBank.com/EURDKK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURGBP": {
+    "file": "market-data/ACMEBank.com/EURGBP_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURHKD": {
+    "file": "market-data/ACMEBank.com/EURHKD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURHUF": {
+    "file": "market-data/ACMEBank.com/EURHUF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURJPY": {
+    "file": "market-data/ACMEBank.com/EURJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURNOK": {
+    "file": "market-data/ACMEBank.com/EURNOK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURNZD": {
+    "file": "market-data/ACMEBank.com/EURNZD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURPLN": {
+    "file": "market-data/ACMEBank.com/EURPLN_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURSEK": {
+    "file": "market-data/ACMEBank.com/EURSEK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURSGD": {
+    "file": "market-data/ACMEBank.com/EURSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/EURTRY": {
+    "file": "market-data/ACMEBank.com/EURTRY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/GBPAUD": {
+    "file": "market-data/ACMEBank.com/GBPAUD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/GBPCAD": {
+    "file": "market-data/ACMEBank.com/GBPCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/GBPCHF": {
+    "file": "market-data/ACMEBank.com/GBPCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/GBPJPY": {
+    "file": "market-data/ACMEBank.com/GBPJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/GBPNZD": {
+    "file": "market-data/ACMEBank.com/GBPNZD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/HKDJPY": {
+    "file": "market-data/ACMEBank.com/HKDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/NZDCAD": {
+    "file": "market-data/ACMEBank.com/NZDCAD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/NZDCHF": {
+    "file": "market-data/ACMEBank.com/NZDCHF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/NZDJPY": {
+    "file": "market-data/ACMEBank.com/NZDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/SGDJPY": {
+    "file": "market-data/ACMEBank.com/SGDJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/TRYJPY": {
+    "file": "market-data/ACMEBank.com/TRYJPY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDAED": {
+    "file": "market-data/ACMEBank.com/USDAED_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDCNH": {
+    "file": "market-data/ACMEBank.com/USDCNH_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDCZK": {
+    "file": "market-data/ACMEBank.com/USDCZK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDDKK": {
+    "file": "market-data/ACMEBank.com/USDDKK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDHKD": {
+    "file": "market-data/ACMEBank.com/USDHKD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDHUF": {
+    "file": "market-data/ACMEBank.com/USDHUF_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDILS": {
+    "file": "market-data/ACMEBank.com/USDILS_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDMXN": {
+    "file": "market-data/ACMEBank.com/USDMXN_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDNOK": {
+    "file": "market-data/ACMEBank.com/USDNOK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDPLN": {
+    "file": "market-data/ACMEBank.com/USDPLN_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDRON": {
+    "file": "market-data/ACMEBank.com/USDRON_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDSAR": {
+    "file": "market-data/ACMEBank.com/USDSAR_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDSEK": {
+    "file": "market-data/ACMEBank.com/USDSEK_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDSGD": {
+    "file": "market-data/ACMEBank.com/USDSGD_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDTHB": {
+    "file": "market-data/ACMEBank.com/USDTHB_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDTRY": {
+    "file": "market-data/ACMEBank.com/USDTRY_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/USDZAR": {
+    "file": "market-data/ACMEBank.com/USDZAR_Ticks_24.06.2024-24.06.2024.csv"
+  },
+  "market-data/ACMEBank.com/fx/ZARJPY": {
+    "file": "market-data/ACMEBank.com/ZARJPY_Ticks_24.06.2024-24.06.2024.csv"
+  }
+}
