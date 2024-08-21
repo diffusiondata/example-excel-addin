@@ -5,7 +5,7 @@ import * as diffusion from "diffusion";
 import logger from './logger';
 import {AbstractCsvFeed} from "./modules/CsvFeed";
 import {MILLIS_PER_HOUR, TopicFileDetail} from "./modules/Common";
-import {DEFAULT_DIFFUSION_SERVER} from '../../src/taskpane/modules/AuthDefaults';
+import {DEFAULT_DIFFUSION_SERVER} from '../src/taskpane/modules/AuthDefaults';
 
 type TopicFile = {
     [topicPath: string]: TopicFileDetail

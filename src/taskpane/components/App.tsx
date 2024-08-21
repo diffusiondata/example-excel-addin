@@ -32,6 +32,8 @@ import { DiffusionServerTable } from "../modules/DiffusionServerTable";
 import { SessionStatusDisplay } from "./SessionStatusDisplay";
 import { AuthTab } from "./AuthTab";
 import { DEFAULT_DIFFUSION_SERVER } from "../modules/AuthDefaults";
+import { SymbolTopicRow } from "../modules/Common";
+import { InstrumentTableViewer } from "../modules/InstrumentTableViewer";
 
 const MarketIcon = bundleIcon(CalendarDataBarRegular, CalendarDataBarFilled);
 const AboutIcon = bundleIcon(InfoFilled, InfoRegular);
@@ -74,6 +76,8 @@ export default function App() {
   const [diffusionServerTable, setDiffusionServerTable] = React.useState<DiffusionServerTable>(
     DiffusionServerTable.from([DEFAULT_DIFFUSION_SERVER])
   );
+  const [selectedOptions, setSelectedOptions] = React.useState<SymbolTopicRow[]>([]);
+  const [tableViewer, setTableViewer] = React.useState<InstrumentTableViewer>();
 
   const toasterId = useId("toaster");
   const { dispatchToast } = useToastController(toasterId);
@@ -130,7 +134,15 @@ export default function App() {
           </Tab>
         </TabList>
         <div className={styles.panels}>
-          {selectedValue === "actionTab" && <ActionTab diffusionServerTable={diffusionServerTable} />}
+          {selectedValue === "actionTab" && (
+            <ActionTab
+              diffusionServerTable={diffusionServerTable}
+              selectedOptions={selectedOptions}
+              setSelectedOptions={setSelectedOptions}
+              tableViewer={tableViewer}
+              setTableViewer={setTableViewer}
+            />
+          )}
           {selectedValue === "aboutTab" && <AboutTab />}
           {selectedValue === "authTab" && <AuthTab diffusionServerTable={diffusionServerTable} toaster={raiseToast} />}
         </div>

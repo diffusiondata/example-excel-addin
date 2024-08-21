@@ -17,6 +17,12 @@ const useStyles = makeStyles({
 
 export type ActionTabProps = {
   diffusionServerTable: DiffusionServerTable;
+
+  selectedOptions: SymbolTopicRow[];
+  setSelectedOptions: React.Dispatch<React.SetStateAction<SymbolTopicRow[]>>;
+
+  tableViewer: InstrumentTableViewer | null;
+  setTableViewer: React.Dispatch<React.SetStateAction<InstrumentTableViewer | undefined>>;
 };
 
 /**
@@ -25,37 +31,46 @@ export type ActionTabProps = {
  * @param {DiffusionServerTable} props.diffusionServerTable - The diffusion server table instance.
  * @returns {React.ReactElement} The rendered ActionTab component.
  */
-export function ActionTab({ diffusionServerTable }: ActionTabProps) {
-  const [selectedOptions, setSelectedOptions] = React.useState<SymbolTopicRow[]>([]);
-  const [tableViewer, setTableViewer] = React.useState<InstrumentTableViewer>();
+export function ActionTab({
+  diffusionServerTable,
+  selectedOptions,
+  setSelectedOptions,
+  tableViewer,
+  setTableViewer,
+}: ActionTabProps) {
   const styles = useStyles();
+  const [, forceRender] = React.useState(false);
 
   const session = diffusionServerTable.getFirst().session;
 
   const doStreamLiveData = async (row: SymbolTopicRow) => {
     if (!tableViewer) {
-      setTableViewer(await InstrumentTableViewer.build(session!, [row.topicPath]));
+      await setTableViewer(await InstrumentTableViewer.build(session!, [row.topicPath]));
     } else {
-      tableViewer.addTopicPath(row.topicPath);
+      await tableViewer.addTopicPath(row.topicPath);
     }
+    forceRender((prev) => !prev);
   };
 
+  console.log("ActionTab render");
   return (
     <>
-      <SymbolSearchBox session={session} selectedOptions={selectedOptions} setSelectedOptions={setSelectedOptions} />;
+      <SymbolSearchBox session={session} selectedOptions={selectedOptions} setSelectedOptions={setSelectedOptions} />
       <ul>
         {selectedOptions.map((row) => (
-          <>
-            <li className={styles.listItem}>
-              <CurrencyPairPersona row={row} />
-              <Button size="small" onClick={() => doStreamLiveData(row)}>
-                Live Data
-              </Button>
-              <Button size="small" disabled>
-                1m Candlestick{" "}
-              </Button>
-            </li>
-          </>
+          <li key={row.topicPath} className={styles.listItem}>
+            <CurrencyPairPersona row={row} />
+            <Button
+              size="small"
+              onClick={() => doStreamLiveData(row)}
+              disabled={tableViewer?.hasTopicPath(row.topicPath)}
+            >
+              Live Data
+            </Button>
+            <Button size="small" disabled>
+              1m Candlestick
+            </Button>
+          </li>
         ))}
       </ul>
     </>

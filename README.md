@@ -51,7 +51,9 @@ As Office.js mandates secure HTTP and WebSockets we suggest creating a free Diff
 24 hours of test data is available for demonstration and test purposes. It comprises 2 data sources, covering 54 FX currency pairs, creating 126 discrete topics with a topic path prefix `market-data/`
 
 ```
-cd testing/fx-loader && npm run load
+cd loader
+npm install
+npm run load
 ```
 
 This will connect to your configured Diffusion server and re-play the data in real time. Open the Diffusion console to observe
@@ -68,12 +70,14 @@ To start the development server, run:
 ```
 npm run dev
 ```
+Accept any requests from your system relating to changed System Certificate Trust settings.
 
 Open a new shell and load the add-in into your Excel instance: use the `start` script. e.g:
 
 ```
 npm run start
 ```
+Accept any requests from your system relating to changed System Certificate Trust settings.
 
 ## Usage
 
@@ -86,7 +90,7 @@ Excel window to float above as a child window. It can be closed, and resumed usi
 
 ### Market Data Tab
 
-The user can stream live data into an Excel table using the `Capital Data` tab. Enter a symbol or symbol fragment e.g. `EUR` to search for symbols or browse them in the pull down menu. Once selected click the `Live Data` button to stream live market data into an Excel table.
+The user can stream live data into an Excel table using the `Market Data` tab. Enter a symbol or symbol fragment e.g. `EUR` to search for symbols or browse them in the pull down menu. Once selected click the `Live Data` button to stream live market data into an Excel table.
 
 ![The Market Data tab](./docs/market-data-tab.png)
 

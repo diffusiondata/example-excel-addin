@@ -26,7 +26,7 @@ export class InstrumentTableViewer {
    * Subscribe to a topic holding instrument data.
    * @param {string} topicPath path of a topic holding instrument data.
    */
-  async addTopicPath(topicPath: string) {
+  public async addTopicPath(topicPath: string) {
     const valueStream = this.session.addStream(topicPath, diffusion.datatypes.json());
 
     valueStream.on({
@@ -40,6 +40,17 @@ export class InstrumentTableViewer {
     await this.session.select(topicPath);
 
     this.topicPaths.set(topicPath, valueStream);
+  }
+
+  /**
+   * Check if a topic path is already subscribed to.
+   * @param {string} topicPath The topic path to check.
+   * @returns {boolean} true if the topic path is already subscribed to, false otherwise.
+   */
+  public hasTopicPath(topicPath: string): boolean {
+    const result = this.topicPaths.has(topicPath);
+    console.log(`hasTopicPath(${topicPath}) => ${result}`);
+    return result;
   }
 
   /**
@@ -96,9 +107,7 @@ export class InstrumentTableViewer {
     const batcher = new EventBatcher<string>(receiver, 10 * 1024);
     const result = new InstrumentTableViewer(session, batcher);
 
-    topicPaths.forEach((topicPath) => {
-      result.addTopicPath(topicPath);
-    });
+    await Promise.all(topicPaths.map((topicPath) => result.addTopicPath(topicPath)));
 
     return result;
   }

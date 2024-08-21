@@ -113,7 +113,7 @@ export class TableViewer<T> {
   ) {}
 
   /**
-   * @param key key to check for.
+   * @param {Primitive} key key to check for.
    * @returns {boolean} true if the key is present in the table.
    */
   public has(key: Primitive): boolean {

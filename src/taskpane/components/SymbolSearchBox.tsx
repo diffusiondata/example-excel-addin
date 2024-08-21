@@ -1,9 +1,18 @@
-import { Combobox, Option, Label, ComboboxProps } from "@fluentui/react-components";
+import { Combobox, Option, Label, ComboboxProps, makeStyles } from "@fluentui/react-components";
 import * as React from "react";
 import * as diffusion from "diffusion";
 import { SymbolTopicTable } from "../modules/Common";
 import { SymbolTopicRow } from "../modules/Common";
 import { CurrencyPairPersona } from "./CurrencyPairPersona";
+
+const useStyles = makeStyles({
+  searchBox: {
+    marginBottom: "15px",
+    "& input": {
+      textTransform: "uppercase",
+    },
+  },
+});
 
 export type SymbolSearchBoxProps = {
   session: diffusion.Session | null;
@@ -22,13 +31,15 @@ export type SymbolSearchBoxProps = {
  * @param {React.Dispatch<React.SetStateAction<SymbolTopicRow[]>>} props.setSelectedOptions - Function to update the selected symbol options.
  * @returns {React.ReactElement} The rendered SymbolSearchBox component.
  */
-export function SymbolSearchBox({ session, setSelectedOptions }: SymbolSearchBoxProps) {
+export function SymbolSearchBox({ session, selectedOptions, setSelectedOptions }: SymbolSearchBoxProps) {
   const [query, setQuery] = React.useState<string>("");
   const [symbolTopicTable, setSymbolTopicTable] = React.useState<SymbolTopicTable>([]);
 
   React.useEffect(() => {
     searchSymbols(".*").then((table) => setSymbolTopicTable(table));
   }, []);
+
+  const styles = useStyles();
 
   const searchSymbols = async (symbolFragment: string): Promise<SymbolTopicTable> => {
     const fetchResult = await session!
@@ -55,13 +66,14 @@ export function SymbolSearchBox({ session, setSelectedOptions }: SymbolSearchBox
     setSelectedOptions(rows);
   };
 
-  const rows = query ? symbolTopicTable.filter((row) => row.symbol.includes(query)) : symbolTopicTable;
+  const rows = query ? symbolTopicTable.filter((row) => row.symbol.includes(query.toUpperCase())) : symbolTopicTable;
 
   return (
     <>
       <Label>Search...</Label>&nbsp;
       <Combobox
         id="symbol-input"
+        className={styles.searchBox}
         disabled={!session || !session.isConnected()}
         placeholder="Symbol"
         autoFocus
@@ -70,6 +82,7 @@ export function SymbolSearchBox({ session, setSelectedOptions }: SymbolSearchBox
         onOptionSelect={doSelect}
         onChange={(ev) => setQuery(ev.target.value)}
         value={query}
+        selectedOptions={selectedOptions.map((row) => row.topicPath)}
       >
         {rows.length === 0 ? (
           <Option key="no instrument" text="No instruments matching">
