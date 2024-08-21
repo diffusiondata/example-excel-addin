@@ -100,3 +100,19 @@ An incomplete user interface. If completed the user might use this to check and 
 
 ![](./docs/authentication-tab.png)
 
+
+## Left As Exercises For The Reader
+
+This demonstration suggests at but does not yet implement the following.
+
+1. Unsubscribe: users can subscribe to symbols, and it is intuitive that they be able to unsubscribe as well. 
+
+1. Automated subscription to FX time-series candlestick data for Dukascopy data, displayed in a table and as an [Excel stock chart](https://www.tutorialspoint.com/how-to-create-stock-chart-in-excel). 
+
+1. Editing the server URL and authentication details: hinted at by the Authentication tab, it would be intuitive to load and save these in user defaults. 
+
+## Utility Scripts
+
+`purge.sh` finds and removes Excel's web cache. Microsoft advise clearing the cache as part of the development and debugging process. Takes the `-n` option to remove even more. 
+
+`defaults.sh` useful only on macOS. Applies the system defaults to enable web view development tools from within the taskpane.
